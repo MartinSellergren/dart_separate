@@ -1,6 +1,6 @@
 name: separate
-description: Insert separators between elements in a list.
-version: 1.0.0
+description: Separates list elements by conditionally inserting new elements.
+version: 1.0.1
 repository: https://github.com/mase7569/dart_separate
 
 environment:

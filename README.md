@@ -2,7 +2,7 @@ Separates list elements by conditionally inserting new elements.
 
 ## Features
 
-This is a handy little package that brings the `separate` method to lists/iterables.
+This is a handy little package that brings the `separate` extension method to lists/iterables.
 
 Useful for e.g putting padding between children in a Row/Column in flutter, similar to `ListView.separated`.
 
