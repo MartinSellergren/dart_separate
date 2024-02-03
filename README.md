@@ -8,7 +8,7 @@ Useful for e.g putting space between children in a Row/Column in flutter, simila
 
 It might be the most straightforward way to add gap between elements like in Figma.
 
-## Basic usage
+# Basic usage
 
 This package operates on lists/iterables so it's very flexible. Here follows some examples specifically for putting gaps between elements in a Column.
 See the example for more details.
@@ -61,3 +61,7 @@ Column(
   ),
 );
 ```
+
+# Author
+
+- [Martin Sellergren](https://github.com/MartinSellergren)

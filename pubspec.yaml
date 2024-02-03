@@ -1,6 +1,6 @@
 name: separate
 description: Separates list elements by conditionally inserting new elements.
-version: 1.0.2
+version: 1.0.3
 repository: https://github.com/mase7569/dart_separate
 
 environment:

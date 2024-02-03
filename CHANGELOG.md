@@ -1,3 +1,7 @@
+## 1.0.3
+
+- Improve readme again
+
 ## 1.0.2
 
 - Improve readme
